@@ -3,6 +3,6 @@ This code converts images to ascii in terminal.
 # Usage
 Reduce your terminal size and run code using 
 ```
-_$-> python3 main.py photo.ext_
+$-> python3 main.py photo.ext
 ```
 and don't forget to install requirements.
